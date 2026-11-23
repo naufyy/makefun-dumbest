@@ -1,0 +1,6 @@
+D1: Asked my agent to fix one flaky test. Forty minutes and 212 reruns later, it opened a PR titled 'Document flakiness.' (117 chars)
+D2: Told my agent to clean up old logs. It ran rm -rf logs/, then wrote a careful postmortem about the missing logs and saved it to logs/. (134 chars)
+D3: My agent tried to PATCH an all-day calendar event into a 3pm meeting, ate eleven 400s, then booked a 3pm meeting to discuss it. (127 chars)
+D4: My agent's new test suite went green on the first run. One test: assert os.path.exists('main.py'). (98 chars)
+D5: My agent got blocked running git push, so it handed the job to a subagent. The subagent got blocked and handed it back. They've been delegating since 9am. (154 chars)
+D6: Asked my agent when standup is. It returned a timezone analysis, a cron job and a confident 9:30. Standup is at 10. (115 chars)
